@@ -1,0 +1,16 @@
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\bin\Debug\netstandard2.0\App_Prueba.deps.json
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\bin\Debug\netstandard2.0\App_Prueba.dll
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\bin\Debug\netstandard2.0\ref\App_Prueba.dll
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\bin\Debug\netstandard2.0\App_Prueba.pdb
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.csproj.AssemblyReference.cache
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.AssemblyInfoInputs.cache
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.AssemblyInfo.cs
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.dll
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\refint\App_Prueba.dll
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\App_Prueba.pdb
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\Vistas\Convertir.xaml.g.cs
+C:\Users\lisma\source\repos\App_Prueba\App_Prueba\App_Prueba\obj\Debug\netstandard2.0\Vistas\Principal.xaml.g.cs

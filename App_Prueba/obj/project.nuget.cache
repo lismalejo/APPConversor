@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgazeVzYFe3P1AmNbcD1jDhGqQxWXGe619uylfWRZDTiz5xhej7JAgtY1mHLrwBFdFaokIawAOpCGdSHjdaJLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lisma\\source\\repos\\App_Prueba\\App_Prueba\\App_Prueba\\App_Prueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lisma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lisma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lisma\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lisma\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lisma\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
